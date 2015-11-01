@@ -102,7 +102,7 @@ Vertica对于参赛选手的友好体现在支持标准的SQL，可以通过安�
 
 对于上例中出租车表，33亿条记录的全表Count查询，我们做了最多50用户并发的查询时间测试：
 
-![Vertica_multiuser](http://public/pics/vertica_pressure.png "Vertica Multiuser Test")
+![Vertica_multiuser](http://holysparky.github.io/public/pics/vertica_pressure.png "Vertica Multiuser Test")
 
 可以看到，查询时间随着用户增加基本上是线性增长的趋势，可以满足大赛规模的用户请求。
 
