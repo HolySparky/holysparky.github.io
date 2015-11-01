@@ -6,11 +6,6 @@ category: tech
 tags : [intro, tutorial, cloud, bigdata]
 ---
 
-编辑/整理：张鹏飞
-- - -
-
-#关于SODA瓶
-
 
 此次SODA比赛，我们为进入复赛的参赛队伍免费提供了两个数据平台，
 并分别导入大赛数据，供选手使用。它们分别是：
@@ -107,7 +102,7 @@ Vertica对于参赛选手的友好体现在支持标准的SQL，可以通过安�
 
 对于上例中出租车表，33亿条记录的全表Count查询，我们做了最多50用户并发的查询时间测试：
 
-![Vertica_multiuser](https://help.github.com/assets/help/footer-logo-56d3698f3654d6403360623c353d37ea.png "GitHub,Social Coding")
+![Vertica_multiuser](http://public/pics/vertica_pressure.png "Vertica Multiuser Test")
 
 可以看到，查询时间随着用户增加基本上是线性增长的趋势，可以满足大赛规模的用户请求。
 
