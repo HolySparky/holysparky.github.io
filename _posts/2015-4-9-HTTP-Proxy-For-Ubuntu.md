@@ -6,10 +6,8 @@ category: slides
 tags : [Network Paper]
 ---
 
-以后的文章，特别是技术类的，我会尽量用英文。。。主要是有些时候真心觉得中文感觉有点儿怪。。。
 
-# Setting HTTP Proxy For Ubuntu Servers
-
+Setting HTTP Proxy for Ubuntu. 
 Once you have a HTTP Proxy, it's quite easy to use for Ubuntu users, take apt-get for example, just type :
 
     export http_proxy="http://yourproxyserver.com:8080/"

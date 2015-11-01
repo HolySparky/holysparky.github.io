@@ -6,8 +6,7 @@ category:
 tags: [Tech, OpenStack]
 ---
 
-这个月的一件蛮大的事情，世Nebula宣布关闭：
-
+这个月的一件蛮大的事情,
 [Nebula宣布关闭](http://venturebeat.com/2015/04/01/openstack-hardware-startup-nebula-shuts-down/)
 
 有点儿突兀，似乎給OpenStack届扔了一颗炸弹，一时间大家纷纷在想，是不是OpenStack将死？

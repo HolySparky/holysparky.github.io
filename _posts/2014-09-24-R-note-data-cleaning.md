@@ -6,11 +6,8 @@ category: lessons
 tags : [r]
 ---
 
-#R learning note
 
 在R语言学习和使用中,遇到的第一件事就是数据的获取和整理，这里把感觉比较实用和有趣的关于data cleaning的note记录在这里，不定时更新
-
-----------------
 
 ##Data segmenting
 

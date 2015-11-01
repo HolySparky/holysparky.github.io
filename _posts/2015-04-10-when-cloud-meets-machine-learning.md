@@ -6,8 +6,6 @@ category:
 tags: [cloud, ml]
 ---
 
-# ML one click away!
-
 亚马逊刚刚发布了它的AML(Amazon Machine Learning), 蛮有意思的行动，大体上就是说他能够提供全套的数据处理、分析框架乃至一些经典算法，你只需要导入数据，
 做一些简单的设定，点几下鼠标就好了！
 
