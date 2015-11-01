@@ -3,6 +3,7 @@ layout: post
 title: "SODA瓶之: Vertica on OpenStack"
 description: ""
 category: tech
+author: "Pengfei Zhang"
 tags : [intro, tutorial, cloud, bigdata]
 ---
 
