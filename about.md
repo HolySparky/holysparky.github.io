@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Pengfei Zhang. I am :
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+- A contributor in OpenStack community 
+- A Phd candidate in Shanghai Jiaotong University
+- A fan of Sci-Fiction
+- Fond of hiking/camping, cycling, basketball, badminton, swimming...
+
+and I was:
+
+- An intern on OpenStack team in Cisco Systems, USA
+- Chairman of Chinese Folk Music Association in Shanghai Jiaotong University
+- A traveler who took train across all over USA, coast to coast

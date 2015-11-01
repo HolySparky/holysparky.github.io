@@ -37,12 +37,12 @@
 			{% if page.path == "about.html" %}
 			<span class="title">
 				<li>
-					<a href="/about/">about</a>
+					<a href="/about.html">about</a>
 				</li>
 			</span>			
 			{% else %}
 				<li>
-					<a href="/about/">about</a>
+					<a href="/about.html">about</a>
 				</li>			
 			{% endif %}
 		</div>
@@ -51,6 +51,11 @@
 			<li>
 				<a href="https://github.com/{{ site.github_username }}" title="Github">
 					<img width="19px" height="19px" src="/images/github.png"/>
+				</a>
+			</li>
+			<li>
+				<a href="/feed.xml" title="RSS">
+					<img width="19px" height="19px" src="/images/rss.png"/>
 				</a>
 			</li>
 			<li>
