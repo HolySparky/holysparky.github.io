@@ -16,8 +16,8 @@ tags : [intro, tutorial, cloud, bigdata]
 
 本文介绍 Vertica 环境的部署过程、使用方法以及针对大赛数据集的压力测试。
 
-** SODA瓶之Spark环境请戳
-** SODA瓶之Ganglia监控请戳
++ SODA瓶之Spark环境请戳
++ [SODA瓶之Ganglia监控请戳](http://87boy.me/Ganglia/)
 
 #HP Vertica介绍
 
@@ -32,7 +32,7 @@ Vertica，全称 Vertica Analytic Database，是HP公司的基于DBMS架构的�
 * 对于 MapReduce 和 Hadoop 的原生支持
 * 标准SQL接口
 
-这里给出Vertica的相关资料和手册：
+这里给出Vertica的相关资料和手册(感谢HP对本大赛的支持！)：
 
 [Vertica 官网](https://www.vertica.com/)
 [Vertica 在线文档](http://my.vertica.com/docs/7.1.x/HTML/index.htm)
