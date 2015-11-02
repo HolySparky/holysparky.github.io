@@ -115,7 +115,7 @@ Vertica自带一个很全面的WebUI监控界面，包括了数据库、节点�
 
 关于监控系统的部署、参数以及结果，敬请点击
 
-[SODA瓶之Ganglia监控]()
+[SODA瓶之Ganglia监控](http://87boy.me/Ganglia/)
 
 
 
