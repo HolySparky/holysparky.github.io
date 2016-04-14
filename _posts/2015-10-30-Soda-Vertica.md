@@ -16,8 +16,8 @@ tags : [intro, tutorial, cloud, bigdata]
 
 本文介绍 Vertica 环境的部署过程、使用方法以及针对大赛数据集的压力测试。
 
-+ [SODA瓶之Spark环境请戳](http://shipengfei92.github.io/soda/2015/11/15/soda/)
-+ [SODA瓶之Ganglia监控请戳](http://87boy.me/Ganglia/)
++ [SODA瓶之Spark环境请戳](http://shipengfei92.github.io/soda_git_and_spark)
++ [SODA瓶之Ganglia监控请戳](http://87boy.me/blog/2015/10/28/Ganglia.html)
 
 #HP Vertica介绍
 
