@@ -14,11 +14,6 @@ tags : [open source, cloud, bigdata, survey, data mining]
 
 
 
-
-
-
-<!-- MarkdownTOC -->
-
 - [开源平台](#开源平台)
     - [RapidMiner](#rapidminer)
     - [KNIME](#knime)
@@ -28,11 +23,11 @@ tags : [open source, cloud, bigdata, survey, data mining]
     - [各平台支持功能比较](#各平台支持功能比较)
     - [各平台发展比较](#各平台发展比较)
 
-<!-- /MarkdownTOC -->
 
 
 
 <a name="开源平台"></a>
+
 ## 开源平台
 先来看一下Gartner的曲线：
 
@@ -50,6 +45,7 @@ tags : [open source, cloud, bigdata, survey, data mining]
 
 
 <a name="rapidminer"></a>
+
 ### RapidMiner
 
 ![rapidminer_logo](https://1xltkxylmzx3z8gd647akcdvov-wpengine.netdna-ssl.com/wp-content/uploads/2016/06/rapidminer-logo-retina.png)
@@ -79,6 +75,7 @@ tags : [open source, cloud, bigdata, survey, data mining]
 
 
 <a name="knime"></a>
+
 ### KNIME
 
 ![knime_logo](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmi9IRKt93MjW7aApviBLICCiNFzKRxLxc6u7YEmpenwSXAa-71IrF-k0)
@@ -96,6 +93,7 @@ This is built on JAVA platform which makes it compatible in all the Systems incl
 ![knime_example](https://www.knime.org/files/images/products/AnalyticsPlatform/knime-analytics-platform.png)
 
 <a name="orange"></a>
+
 ### Orange
 
 ![orange_logo](http://orange.biolab.si/static/images/orange_logo_new.png)
@@ -123,6 +121,7 @@ This is built on JAVA platform which makes it compatible in all the Systems incl
 
 
 <a name="weka"></a>
+
 ### Weka
 
 ![weka_logo](https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png)
@@ -144,16 +143,20 @@ This is built on JAVA platform which makes it compatible in all the Systems incl
 ![weka_example](http://ithelp.ithome.com.tw/upload/images/20140919/20140919191648541c10a0aea4b_resize_600.png)
 
 <a name="几个平台的对比情况："></a>
+
 ## 几个平台的对比情况：
 
 参考文献：[An overview of free software tools for general
 data mining](https://pdfs.semanticscholar.org/65fd/dc055a2b7511f7c9a5a1eead16defa9e7390.pdf)
 
 <a name="各平台支持功能比较"></a>
+
 ###各平台支持功能比较
+
 ![几大功能比较](https://github.com/HolySparky/Pictures/blob/master/inesa/advanced_support_opemML.png?raw=true)
 
 <a name="各平台发展比较"></a>
+
 ###各平台发展比较
 
 ![各平台发展比较](https://github.com/HolySparky/Pictures/blob/master/inesa/open_sourceML_table.png?raw=true)
