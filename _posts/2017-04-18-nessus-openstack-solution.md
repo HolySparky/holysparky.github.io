@@ -66,17 +66,16 @@ author: "Pengfei Zhang"
 
 修改：/etc/ssh/sshd_config ,增加：
 
-```
-Ciphers aes128-ctr,aes192-ctr,aes256-ctr
+    Ciphers aes128-ctr,aes192-ctr,aes256-ctr
 
-MACs hmac-sha1,hmac-ripemd160
-```
+    MACs hmac-sha1,hmac-ripemd160 
+
 
 重启服务：
 
-```
-/bin/systemctl restart  sshd.service
-```
+
+    /bin/systemctl restart  sshd.service
+
 
 
 
@@ -95,10 +94,11 @@ MACs hmac-sha1,hmac-ripemd160
 解决方案：
 
 关闭mDNS服务
-```
-service avahi-daemon stop        #停止avahi-daemon服务
-chkconfig avahi-daemon off       #防止avahi-daemon开机再次运行
-```
+
+
+    service avahi-daemon stop        #停止avahi-daemon服务
+    chkconfig avahi-daemon off       #防止avahi-daemon开机再次运行
+
 
 
 <a name="vnc认证漏洞"></a>
@@ -124,11 +124,12 @@ chkconfig avahi-daemon off       #防止avahi-daemon开机再次运行
 
 添加如下几条：
 
--A INPUT -s 172.35.0.103/32 -p tcp -m multiport --dports 5900:5999 -m comment --comment "001 nova compute incoming nova_compute" -j ACCEPT
 
--A INPUT -s 172.35.0.104/32 -p tcp -m multiport --dports 5900:5999 -m comment --comment "001 nova compute incoming nova_compute" -j ACCEPT
+    -A INPUT -s 172.35.0.103/32 -p tcp -m multiport --dports 5900:5999 -m comment --comment "001 nova compute incoming nova_compute" -j ACCEPT
 
--A INPUT -p tcp -m tcp --dport 5900:5999 -j REJECT
+    -A INPUT -s 172.35.0.104/32 -p tcp -m multiport --dports 5900:5999 -m comment --comment "001 nova compute incoming nova_compute" -j ACCEPT
+
+    -A INPUT -p tcp -m tcp --dport 5900:5999 -j REJECT
 
 
 <a name="ssl相关漏洞"></a>
@@ -151,10 +152,10 @@ chkconfig avahi-daemon off       #防止avahi-daemon开机再次运行
 
 
 关闭pcsd服务，在所有控制节点执行以下命令：
-```
-systemctl stop pscd.service
-systemctl disable pscd.service
-```
+
+    systemctl stop pscd.service
+    systemctl disable pscd.service
+
 
 
 
