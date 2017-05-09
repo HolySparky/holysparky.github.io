@@ -15,6 +15,68 @@ author: "Pengfei Zhang"
 
 JSON格式本身如果缺／多元素，或者格式不正确，将直接导致JSON读取失败，这一点 stackoverflow上已经有很多踩坑的经验了，这里不再赘述。总的来说，当你使用 `json.loads()` 进行读取的时候，如果系统扔出来 `ValueError`异常，第一步恐怕就是需要看看这个json是不是规范的格式。
 
+## JSON 嵌套问题
+
+JSON格式数据转换成CSV的过程中，最大的问题就是JSON数据可以进行嵌套，例如：
+
+     { "_id" : { "$oid" : "586692e1208a6f78a40987b6" }, 
+     "tag_id" : "586692e1208a6f78a40987b5", "tag_sn" : "586692e1208a6f78a40987b5", 
+     "tag_sn_producer_code" : "SHFDA",
+      "enterprise_id" : 782, 
+      "product_id" : 44900, 
+      "process_id" : 106, 
+      "is_downstream" : false, 
+      "data_type" : "catering", 
+      "data_node_type" : "in", 
+      "data_date" : "2016-12-30", 
+      "nodes" : 
+        { 
+            "production" : 
+            { "parameters" : 
+                {
+                    "batch" : "2016-12-18", 
+                    "productionDate" : "2016-12-18" 
+                } 
+            }, 
+            "purchase" : 
+            {
+                "parameters" : 
+                {
+                    "vendorTel" : "010-85018668", 
+                    "unit" : "箱", 
+                    "purchaseDate" : "2016-12-30", 
+                    "quantity" : "1" 
+                } 
+            } 
+        }, 
+      "status" : 1, 
+      "created_by" : "admin@SHA240", 
+      "created_on" : 1483117281, 
+      "updated_by" : "admin@SHA240", 
+      "updated_on" : 1483117281 }
+
+对于这种嵌套情况，转成csv格式就需要把内部的结构也“抖”出来，展平称为一个扁平的 Key-Value 格式。用python转换时，参考如下部分的迭代实现：
+
+    def reduce_item(key, value):
+        global reduced_item
+
+        #Reduction Condition 1
+        if type(value) is list:
+            i=0
+            for sub_item in value:
+                reduce_item(key+'_'+to_string(i), sub_item)
+                i=i+1
+
+        #Reduction Condition 2
+        elif type(value) is dict:
+            sub_keys = value.keys()
+            for sub_key in sub_keys:
+                reduce_item(key+'_'+to_string(sub_key), value[sub_key])
+
+        #Base Condition
+        else:
+            reduced_item[to_string(key)] = to_string(value)
+
 
 
 ## JSON文件包含多元素问题
