@@ -10,7 +10,7 @@ tags : [VPN, NIC, network]
 对于之前搭建的双网卡VXLAN隧道VPN服务器，发现内网IP无法ping通该服务器内网地址。本文为原因查找解决的总结，以及总结新版本centos中rp_filter 的参数变动。
 
 
-##问题描述：
+## 问题描述：
 
 对于如下结构网络：
 
@@ -20,7 +20,7 @@ tags : [VPN, NIC, network]
 
 
 
-##问题分析：
+## 问题分析：
 
 网关为VPN服务器，具有两块网卡 10.19.30.7 （br1-eth1） 与 10.19.30.8(eth0)
 
@@ -39,7 +39,7 @@ tags : [VPN, NIC, network]
     192.168.122.0/24 dev virbr0  proto kernel  scope link  src 192.168.122.1
     224.0.0.0/4 dev br1  scope link
 
-##问题解决：
+## 问题解决：
 
 参考以下链接，
 
@@ -51,7 +51,7 @@ tags : [VPN, NIC, network]
 
 修改rp_filter 安全策略。（以上修改未固化，重启实效，如确定固化需要参考上述链接中的进一步描述）
 
-##附：rp_filter 的定义：
+## 附：rp_filter 的定义：
 
 /usr/share/doc/kernel-doc-2.6.32/Documentation/networking/ip-sysctl.txt
 
