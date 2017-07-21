@@ -44,7 +44,7 @@ author: "Pengfei Zhang"
 
 
 
-![未来战警](http://mmbiz.qpic.cn/mmbiz_gif/bMX5EkeMvZ3Ly4DhMcfjc3hHs3YCc2OxZdFrjiaa60hQnuvmBD3rjytvsef8fmsAgfiaiaNKtUVjmox15jN8JXicVg/0?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![未来战警](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/laoshan1.png?raw=true)
 
 
 <a name="城市金融安全侠"></a>
@@ -61,7 +61,7 @@ author: "Pengfei Zhang"
 
 [决赛视频](https://mp.weixin.qq.com/s?__biz=MzA5NjE1ODU1MQ==&mid=2649498885&idx=1&sn=bb907fae5d015c31fc6511b09215cadc&chksm=88acd33dbfdb5a2bfd9f0ae7b5e7f468bb425432fec6984d3abbf7e24e6ea6aa3cfc4ebcd283&scene=0&key=fbf9e68652914f9834206d7cd28a609b72c16cedfeb2a7904a7681eed0cc65fb0c44c6c5e4baa5a21128c233ef4a51dbcf8a32c2970fbfcb2b41af5123de4648067652ccce89aad8493d252b0eb01d8c&ascene=0&uin=MTM0NDQxNjYwMA%3D%3D)
 
-![城市金融安全](https://mmbiz.qpic.cn/mmbiz_png/bMX5EkeMvZ0gooe628GwVBhUf2b7BlxdhiceicVVcGCjiaIYW7OqysGK7oU5bMcrktAp08xibeYX1kQPQ9x1hibuibyA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![城市金融安全](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/jinrong1.png?raw=true)
 
 
 
@@ -82,7 +82,9 @@ author: "Pengfei Zhang"
 
 [决赛视频](https://mp.weixin.qq.com/s?__biz=MzA5NjE1ODU1MQ==&mid=2649498896&idx=1&sn=8c75ddc8a9840d9fbf2daf609248e86a&chksm=88acd328bfdb5a3eef7b56da9b9f7348b57dacf49ce96d566c09fd7f933ee0d2752c0c6c1f52&scene=0&key=c24f0790966abbc7b1370327e40caa0492f17dcceae55159d7a0f9a7b36a270eaec5d3e8570d478249ee692b5c40bdac5f268661b09f529c8fa085e0d8648b4d7e1dc4b71fcf03624694861af6ad14da&ascene=0&uin=MTM0NDQxNjYwMA%3D%3D)
 
-![streettalk](https://mmbiz.qpic.cn/mmbiz_png/bMX5EkeMvZ3kFm2Qo8HoFX2BfObtcz0hRHdP5PdIcVKmiala4Q1xgxntiadGpEfOTSE7ibicQiccvE1wIU1WPGXDwRA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![streettalk](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/jiejing1.png?raw=true)
+
+![street2](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/jiejing2.png?raw=true)
 
 
 <a name="公共场所人群风险管理与疏散优化系统"></a>
@@ -99,9 +101,9 @@ author: "Pengfei Zhang"
 
 [决赛视频](https://mp.weixin.qq.com/s?__biz=MzA5NjE1ODU1MQ==&mid=2649498924&idx=2&sn=7e5e32be153e46b4f3ad54e66a803b3a&chksm=88acd314bfdb5a0262381a690103b55b4d207aee6b0a7a7811cb88a33a4002478e8c9af62d84&scene=0&key=126df665731994ec72c2844b29473b9b22b06fce63c2a60f8a9498a043de1d9a67a2a06010de4037167aa43fb40ec73d54ff55ac7e7083b59346cbbd80fd5701dfb4b1fc981ba2c2a4a85117df3c6736&ascene=0&uin=MTM0NDQxNjYwMA%3D%3D)
 
-![地铁图](https://mmbiz.qpic.cn/mmbiz_gif/bMX5EkeMvZ0SIMvzWLibs628adzMYxQrkWjZ975v6ickGQAzQFrwyTCY8OtEBibM6WMrlgOAprP1swI6DZ08z1ftQ/0?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![地铁图](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/inno1.png?raw=true)
 
-![人流变化](https://mmbiz.qpic.cn/mmbiz_png/bMX5EkeMvZ0SIMvzWLibs628adzMYxQrkxMpYpicC1INf2tRzVOfZMXxwP3WFnU2VCon3J1iahQavcgaAWZkIlGpA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![人流变化](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/inno3.png?raw=true)
 
 <a name="e图商圈"></a>
 
@@ -117,7 +119,7 @@ author: "Pengfei Zhang"
 
 [决赛视频](https://mp.weixin.qq.com/s?__biz=MzA5NjE1ODU1MQ==&mid=2649498964&idx=2&sn=95ff565c1a24ff729d51e11c6158ad8e&chksm=88acd36cbfdb5a7abbc75c2de67579f7e84e013ce07cefcaae78e1ddda8fde67330362f5b668&scene=0&key=4bbfc5e76b8603bd4759ce50243eeb6f0f3475df4c8d612471d2558acf67127a87dc20a74026078df420e151bdd5bd80d2c9affab4663ac51f08e24fa68959d68e2430bb0ed4c69abadf85d62798b013&ascene=0&uin=MTM0NDQxNjYwMA%3D%3D)
 
-![商圈图](https://mmbiz.qpic.cn/mmbiz_jpg/BtLdpzJd1K0sQRFb8X9pMVOxaxO6OTGcxF8qYBib7XZS33wnH9sPHicuQCpibJGgC8R8IH744zePtrWZsHlcoJXxw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![商圈图](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/etu1.png?raw=true)
 
 
 
@@ -133,11 +135,11 @@ author: "Pengfei Zhang"
 
 [决赛视频](https://mp.weixin.qq.com/s?__biz=MzA5NjE1ODU1MQ==&mid=2649498924&idx=2&sn=7e5e32be153e46b4f3ad54e66a803b3a&chksm=88acd314bfdb5a0262381a690103b55b4d207aee6b0a7a7811cb88a33a4002478e8c9af62d84&scene=0&key=1c1f454375e2a3ada6f4dc672e022e2e9cefd9b2908ce1c65aa3a04f212d97eabf18d2023d4842205dc1474cc20f5b54ac578e575604d2155251563b7931f2764c09c6e282693fa2e8b4a5168ad2d5db&ascene=0&uin=MTM0NDQxNjYwMA%3D%3D)
 
-![污染图](https://mmbiz.qpic.cn/mmbiz_gif/bMX5EkeMvZ35mxYnzEgaZo0RJjHo6u0q5qwGT0j0jSk2ETB2lUAU9J8LgxNLAoXKhyYtGCJclFZ7qVyYW9VwuQ/0?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![污染图](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/wumai1.png?raw=true)
 
-![城市污染图](https://mmbiz.qpic.cn/mmbiz_gif/bMX5EkeMvZ35mxYnzEgaZo0RJjHo6u0qKrxf63M2Gl7KuGicxAZZvlbhT5F5B5czlGFrA7IPicr5JEuVOctrIsxw/0?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![城市污染图](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/wumai2.png?raw=true)
 
-![工厂污染情况概览-细节](https://mmbiz.qpic.cn/mmbiz_gif/bMX5EkeMvZ35mxYnzEgaZo0RJjHo6u0qcrn9EtApia4iaygPwGI0k6MbaHoLFebwgQ5xAN1YfXibhyicQIRXkWZib4w/0?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+
 
 
 
@@ -155,11 +157,11 @@ author: "Pengfei Zhang"
 
 [决赛视频](https://mp.weixin.qq.com/s?__biz=MzA5NjE1ODU1MQ==&mid=2649498967&idx=1&sn=6bf42fbb1ea723e4241d89613a2ff238&chksm=88acd36fbfdb5a79578c1ba3e075963e254333446a13b35c31cf20106b67dc1a51fcb320c67e&scene=0&key=27e59116b734781c0ad405259e0383ccf9b8bf21106e291f065f05f733dfd4abdcf7556891dca94b5cfd4900724620b399b65533615339cf4b9793172c36643bfddb2e85c750c791365a8d8e4939c034&ascene=0&uin=MTM0NDQxNjYwMA%3D%3D)
 
-![词云](https://mmbiz.qpic.cn/mmbiz_jpg/bMX5EkeMvZ29IB6QOcUaBhIqEibhbVADtGk4lrodM4uwRnbXPTNAibVBvD4Zdw5VJY6nI4EkoXOibByozsA2uh2Vw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![词云](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/shipin1.png?raw=true)
 
-![排名](https://mmbiz.qpic.cn/mmbiz_png/bMX5EkeMvZ29IB6QOcUaBhIqEibhbVADtDwAmDb3o90xsGgUNibwj7Nic8licHmaNTOa2GD51ibfOWdj0kqjMb8FGoA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![排名](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/shipin2.png?raw=true)
 
-
+![map](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/shipin4.png?raw=true)
 
 <a name="智慧防霾"></a>
 
@@ -173,9 +175,9 @@ author: "Pengfei Zhang"
 
 [决赛视频](https://mp.weixin.qq.com/s?__biz=MzA5NjE1ODU1MQ==&mid=2649498968&idx=1&sn=4e62e98c83e89718c325bc0b74cf1a17&chksm=88acd360bfdb5a7647bea1f59da5fabe175b1646251150c94502b947cb0d5f41b60d1b27ed8f&scene=0&key=4bbfc5e76b8603bd7a61b10e2c401b1ea60727333b9cf6a78a4bcc2cb66d5a30ae703788410bc8b2fa7fac08c768d18656f392223bedc873a509306a936f55db7157eca6d8d9b1a7d015b8975957cecc&ascene=0&uin=MTM0NDQxNjYwMA%3D%3D)
 
-![pm25](https://mmbiz.qpic.cn/mmbiz_png/bMX5EkeMvZ2dzjbTooYDucvxTsGaj1pNNz8utfTURlibGrAn2jJy9Fic7FxRGDGsjKEAfo3oxsrzE0dAGFONck2w/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![pm25](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/wumai1.png?raw=true)
 
-![app](https://mmbiz.qpic.cn/mmbiz_png/bMX5EkeMvZ2dzjbTooYDucvxTsGaj1pNPcPa1fuBVZ9agHdynE3xnnQDzh1UQekp55ADp4BGiagn8aWicIXlNfpg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![app](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/wumai2.png?raw=true)
 
 
 <a name="changify"></a>
@@ -190,7 +192,7 @@ author: "Pengfei Zhang"
 
 [决赛视频](https://mp.weixin.qq.com/s?__biz=MzA5NjE1ODU1MQ==&mid=2649498969&idx=1&sn=8fdbe8b57efd516ca6142fa20e565ca3&chksm=88acd361bfdb5a7723656c31a804168534e061c3933a7bab4f4439691e32572af1d7aedcc01c&scene=0&key=fbf9e68652914f98292e95ca0a7b18c75574e1a25cf3a702c975a7173d0d75c871fb7c637976e012575aa0719945dab1ca042ea368452c65fede0b6a0718a1308ca24bbbace8ce8431675e9b312ffbe8&ascene=0&uin=MTM0NDQxNjYwMA%3D%3D)
 
-![app](https://mmbiz.qpic.cn/mmbiz_gif/bMX5EkeMvZ11yodibo9uicdl88Xa9wNV7vRsNeRoFE6Kb2lQAZ6fHomjGrotTh9b3BTxBJia14PlM5VLCpMQHmSWA/0?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![app](https://github.com/ZionPF/Pictures/blob/master/SJTU/soda2016/changify1.png?raw=true)
 
 ![视频分析](https://mmbiz.qpic.cn/mmbiz_gif/bMX5EkeMvZ11yodibo9uicdl88Xa9wNV7vOnQ8j7TefWUhTOCF1mw4OibSGwvewmt7gh3uiaLiarpBbLcxiatIISUZGA/0?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
  
