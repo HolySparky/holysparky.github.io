@@ -1,5 +1,5 @@
 ---
-title: Hangman Game in Python (Continued)
+title: Word Counter 
 tags: python, ai, kids
 notebook: Python
 layout: post
